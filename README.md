@@ -7,8 +7,7 @@ Diabetic retinopathy (DR) is a medical condition in which damage occurs to the r
 Problem statement
 To build a machine learning model to speed up disease detection and to help classify diabetic retinopathy into 5 different stages.
 
-Dataset
-kaggle:-https://www.kaggle.com/c/aptos2019-blindness-detection
+Kaggle Dataset: https://www.kaggle.com/c/aptos2019-blindness-detection
 
 Data Description :
 Large set of retina images taken using fundus photography under a variety of imaging conditions. A clinician has rated each image for the severity of diabetic retinopathy on a scale of 0 to 4:
@@ -18,10 +17,12 @@ Large set of retina images taken using fundus photography under a variety of ima
 2 - Moderate
 3 - Severe
 4 - Proliferative DR
+
 ![image](https://user-images.githubusercontent.com/38246378/145710762-52c439d6-9037-469e-bd4e-51ba506cdaf0.png)
 
 
 It comprises of 3662 photos of eyes tagged with the five severity stages of diabetic retinopathy, which might be used to train a machine learning model to solve the problem. There are 3662 retina images in the dataset, all of which of various sizes. Only the ground facts of the training photos are provided to the general audience. Furthermore, 1805 of the photos are normal, whereas 1857 are DR.
+
 ![image](https://user-images.githubusercontent.com/38246378/145710755-1e27d27a-d647-47ec-8155-59e2c822c73e.png)
 
 
